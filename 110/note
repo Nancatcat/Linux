@@ -1,0 +1,2 @@
+le :; do ps ajx | head -1 && ps ajx |grep Mytext | grep -v grep; sleep 1; done
+
